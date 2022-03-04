@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import './style.css';
 import Login from './src/components/Login'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './style'
+import './src/style/style'
 
 interface AppProps {}
 interface AppState {
