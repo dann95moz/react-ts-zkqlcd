@@ -22,9 +22,6 @@ class App extends Component<AppProps, AppState> {
     return (
       <div>
         <Login/>
-        <p>
-          Start editing to see some magic happen :)
-        </p>
       </div>
     );
   }
